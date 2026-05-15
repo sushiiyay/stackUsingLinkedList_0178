@@ -75,5 +75,5 @@ public:
 
 int main ()
 {
-    Stack
+    Stack stack;
 }
