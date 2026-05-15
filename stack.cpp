@@ -96,5 +96,6 @@ int main ()
             stack.push(value);
             break;
         case 2;
+            s
     }
 }
